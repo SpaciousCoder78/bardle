@@ -3,6 +3,9 @@ An android app for Google Bard using WebView
 
 Trello Board: https://trello.com/b/w8r9G2at/bardle
 
+## Supported Devices
+- Android Devices running Android 9.0 or above
+
 ## Why I made this
 The only Large Language Model that I like and use is Google Bard but unfortunately it doesn't have a native android app and its kind of ugly to open the browser all the time and use it so I decided to make an app for it to make things easier for me. 
 
